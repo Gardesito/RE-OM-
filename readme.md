@@ -20,4 +20,6 @@
 ### Tips de visual estudio Code
 
 * code . (esto es para abrir el Visual desde una carpeta en el explorador o cualquier lado de la pc)
-* ctrl + c (para salir de un comando en la consola)
+* ctrl + c (para terminar un proceso desde la consola)
+* git log (ver el historial de commits)
+* :wq (para salir de un comando de consola)
