@@ -23,3 +23,10 @@
 * ctrl + c (para terminar un proceso desde la consola)
 * git log (ver el historial de commits)
 * :wq (para salir de un comando de consola)
+
+------------------------------------------------------------------------------
+
+### Como crear una rama
+
+* git checkout -b nombre-rama (crear una rama y darle el nombre y te moves a esa rama)
+* git branch (ver en que rama estas ) 
